@@ -1,2 +1,0 @@
-demo_turtle2
--DCATKIN_DEVEL_PREFIX=/home/c/demo_turtle2/devel -DCMAKE_INSTALL_PREFIX=/home/c/demo_turtle2/install -G Unix Makefiles

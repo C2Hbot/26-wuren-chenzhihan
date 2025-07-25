@@ -1,2 +1,0 @@
-/media/sf_share/CMake 1/common/kalman/build/CMakeFiles/rebuild_cache.dir
-/media/sf_share/CMake 1/common/kalman/build/CMakeFiles/edit_cache.dir

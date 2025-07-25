@@ -1,3 +1,0 @@
-float32 linear_vx
-float32 linear_vy
-float32 linear_vz
