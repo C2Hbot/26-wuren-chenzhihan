@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmath.a  CMakeFiles/math.dir/media/sf_share/CMake/CMake作业/CMake_1/common/math/src/Math.o
+/usr/bin/ranlib libmath.a

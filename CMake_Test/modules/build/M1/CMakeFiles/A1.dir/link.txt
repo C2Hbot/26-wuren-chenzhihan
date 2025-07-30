@@ -1,0 +1,2 @@
+/usr/bin/ar qc libA1.a  CMakeFiles/A1.dir/__/A1/src/A11.o CMakeFiles/A1.dir/__/A1/src/A12.o CMakeFiles/A1.dir/__/A1/src/A13.o
+/usr/bin/ranlib libA1.a

@@ -1,0 +1,8 @@
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/CMakeFiles/rebuild_cache.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/CMakeFiles/edit_cache.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/rebuild_cache.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/M1.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/edit_cache.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/M2.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/A2.dir
+/media/sf_share/CMake/CMake作业/CMake 1/modules/build/M1/CMakeFiles/A1.dir
