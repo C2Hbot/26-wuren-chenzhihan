@@ -1,0 +1,8 @@
+prefix=/home/c/demo_rviz/install
+
+Name: rviz_test
+Description: Description of rviz_test
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs sensor_msgs message_runtime cv_bridge

@@ -1,0 +1,11 @@
+/home/c/demo_rviz/install/_setup_util.py
+/home/c/demo_rviz/install/env.sh
+/home/c/demo_rviz/install/setup.bash
+/home/c/demo_rviz/install/local_setup.bash
+/home/c/demo_rviz/install/setup.sh
+/home/c/demo_rviz/install/local_setup.sh
+/home/c/demo_rviz/install/setup.zsh
+/home/c/demo_rviz/install/local_setup.zsh
+/home/c/demo_rviz/install/setup.fish
+/home/c/demo_rviz/install/local_setup.fish
+/home/c/demo_rviz/install/.rosinstall
