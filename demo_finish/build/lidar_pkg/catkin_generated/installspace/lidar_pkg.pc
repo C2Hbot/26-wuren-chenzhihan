@@ -1,0 +1,8 @@
+prefix=/home/c/demo_finish/install
+
+Name: lidar_pkg
+Description: Description of lidar_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy sensor_msgs std_msgs message_runtime fsd_common_msgs

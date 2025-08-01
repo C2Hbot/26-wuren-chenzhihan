@@ -1,0 +1,11 @@
+/home/c/demo_finish/install/_setup_util.py
+/home/c/demo_finish/install/env.sh
+/home/c/demo_finish/install/setup.bash
+/home/c/demo_finish/install/local_setup.bash
+/home/c/demo_finish/install/setup.sh
+/home/c/demo_finish/install/local_setup.sh
+/home/c/demo_finish/install/setup.zsh
+/home/c/demo_finish/install/local_setup.zsh
+/home/c/demo_finish/install/setup.fish
+/home/c/demo_finish/install/local_setup.fish
+/home/c/demo_finish/install/.rosinstall

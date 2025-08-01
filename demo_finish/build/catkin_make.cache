@@ -1,0 +1,2 @@
+fsd_common_msgs:lidar_pkg
+-DCATKIN_DEVEL_PREFIX=/home/c/demo_finish/devel -DCMAKE_INSTALL_PREFIX=/home/c/demo_finish/install -G Unix Makefiles
